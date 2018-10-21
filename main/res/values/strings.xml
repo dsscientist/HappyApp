@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HappyApp</string>
+    <string name="app_title">HAPPY APP</string>
+    <string name="enter_button">ENTER</string>
+    <string-array name="quote">
+        <item>Hello</item>
+        <item>test</item>
+    </string-array>
+</resources>
