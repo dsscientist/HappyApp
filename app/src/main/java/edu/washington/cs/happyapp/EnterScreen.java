@@ -8,23 +8,19 @@ import android.widget.Button;
 
 public class EnterScreen extends AppCompatActivity {
 
-    Button button;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_enter_screen);
-
-        button = (Button) findViewById(R.id.button);
-        button.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v){
-                openDailyQuotes();
+        Button b = (Button) findViewById(R.id.button);
+        b.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                goToSettings();
             }
         });
     }
 
-    public void openDailyQuotes(){
-        Intent intent = new Intent(this, DailyQuote.class);
-        startActivity(intent);
+    public void goToSettings() {
+        startActivity(new Intent(this, (SettingsScreen.class)));
     }
 }

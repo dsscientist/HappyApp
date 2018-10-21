@@ -124,7 +124,16 @@
 
     <string name="pref_title_vibrate">Vibrate</string>
     <string name="settings_title">Settings</string>
-    <string name="sound_label">Sound?</string>
-    <string name="music_label">Music?</string>
+    <string name="sound_label">Sound</string>
+    <string name="music_label">Music</string>
     <string name="background_label">Color</string>
+    <string name="notif_label">Notifications</string>
+    <string name="fb_label">Facebook</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="color_button">Select</string>
+    <string name="title_activity_game">blah</string>
+    <string name="title_activity_clicker_game">blah</string>
 </resources>
