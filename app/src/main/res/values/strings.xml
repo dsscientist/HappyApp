@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HappyApp</string>
+    <string name="app_title">HAPPY APP</string>
+    <string name="enter_button">ENTER</string>
 </resources>
