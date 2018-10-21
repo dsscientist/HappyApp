@@ -21,9 +21,7 @@
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
 
-        <activity
-            android:name=".SettingsScreen"
-            android:label="@string/title_activity_settings_screen"></activity>
+        <activity android:name=".SettingsScreen"></activity>
     </application>
 
 </manifest>
