@@ -2,4 +2,6 @@
     <string name="app_name">HappyApp</string>
     <string name="app_title">HAPPY APP</string>
     <string name="enter_button">ENTER</string>
+    <string name="title_activity_game">Game</string>
+    <string name="title_activity_clicker_game">clicker_game</string>
 </resources>
