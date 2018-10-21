@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".DailyQuote">
+            android:parentActivityName=".EnterScreen">
+            <!-- The meta-data tag is required if you support API level 15 and lower -->
+        </activity>
+
         <activity
             android:name=".Game"
             android:label="@string/title_activity_game"

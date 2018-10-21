@@ -4,6 +4,54 @@
     <string name="enter_button">ENTER</string>
     <string name="title_activity_settings_screen">Settings</string>
 
+    <!-- Strings related to happy quotes -->
+    <string-array name="quote">
+        <item>Time you enjoy wasting is not wasted time.\n― Marthe Troly</item>
+        <item>It is so hard to forget pain, but it is even harder to remember sweetness.
+            We have no scar to show for happiness. We learn so little from peace.\n― Chuck Palahniuk,
+            Diary </item>
+        <item>Happiness in intelligent people is the rarest thing I know.\n― Ernest Hemingway, The
+            Garden of Eden</item>
+        <item>Happiness is when what you think, what you say, and what you do are in harmony.\n―
+            Mahatma Gandhi</item>
+        <item>You will never be happy if you continue to search for what happiness consists of.
+            You will never live if you are looking for the meaning of life.\n ― Albert Camus</item>
+        <item>Happiness is not something ready made. It comes from your own actions. \n- Dalai
+            Lama XIV</item>
+        <item>Count your age by friends, not years. Count your life by smiles, not tears.\n- John
+            Lennon</item>
+        <item>If more of us valued food and cheer and song above hoarded gold, it would be a merrier
+            world. \n- J.R.R. Tolkien</item>
+        <item>Doing what you like is freedom. Liking what you do is happiness.\n- Frank Tyger </item>
+        <item>There is more to life than increasing its speed.\n- Mahatma Gandhi</item>
+        <item>When one door of happiness closes, another opens, but often we look so long at the
+            closed door that we do not see the one that has been opened for us. \n- Helen Keller</item>
+        <item>Life is 10 percent what happens to you and 90 percent how you respond to it.\n- Lou Holtz</item>
+        <item>True happiness arises, in the first place, from the enjoyment of one’s self.\n- Joseph Addison</item>
+        <item>Happiness, not in another place but this place…not for another hour, but this hour.\n- Walt Whitman</item>
+        <item>Folks are usually about as happy as they make their minds up to be.\n- Abraham Lincoln</item>
+        <item>Happiness? That’s nothing more than health and a poor memory.\n- Albert Schweitzer</item>
+        <item>I am very happy because I have conquered myself and not the world. I am very happy because
+            I have loved the world and not myself.\n- Sri Chinmoy</item>
+        <item>What a wonderful life I’ve had! I only wish I’d realized it sooner.\n- Colette</item>
+        <item>People don’t notice whether it’s winter or summer when they’re happy.\n- Anton Chekhov</item>
+        <item>Success is getting what you want. Happiness is wanting what you get.\n- Dale Carnegie</item>
+        <item>One of the keys to happiness is a bad memory.\n- Rita Mae Brown </item>
+        <item>If you aren’t grateful for what you already have, what makes you think you would be happy
+            with more.\n- Roy T. Bennett </item>
+        <item>For every minute you are angry you lose sixty seconds of happiness.\n- Ralph Waldo Emerson</item>
+        <item>Happiness depends upon ourselves.\n- Aristotle</item>
+        <item>If you want to be happy, be.\n- Leo Tolstoy</item>
+        <item>Happiness is a state where nothing is missing.\n- Naval Ravikant</item>
+        <item>Be happy. It’s one way of being wise.\n- Colette</item>
+        <item>Being happy is not the only happiness.\n- Alice Walker</item>
+        <item>Enjoy it. Because it’s happening.\n- Stephen Chbosky</item>
+        <item>No medicine cures what happiness cannot.\n- Gabriel García Márquez</item>
+        <item>It is more fitting for a man to laugh at life than to lament over it.\n- Seneca</item>
+        <item>All happiness depends on courage and work.\n- Honoré de Balzac</item>
+
+    </string-array>
+
     <!-- Strings related to Settings -->
 
     <!-- Example General settings -->
