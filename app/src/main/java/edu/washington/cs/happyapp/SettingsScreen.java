@@ -26,6 +26,6 @@ public class SettingsScreen extends AppCompatActivity {
     }
 
     public void goToHome() {
-        startActivity(new Intent(this, EnterScreen.class));
+        startActivity(new Intent(this, DailyQuote.class));
     }
 }

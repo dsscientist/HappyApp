@@ -15,12 +15,13 @@ public class EnterScreen extends AppCompatActivity {
         Button b = (Button) findViewById(R.id.button);
         b.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                goToSettings();
+                openDailyQuotes();
             }
         });
     }
 
-    public void goToSettings() {
-        startActivity(new Intent(this, (SettingsScreen.class)));
+    public void openDailyQuotes(){
+        Intent intent = new Intent(this, DailyQuote.class);
+        startActivity(intent);
     }
 }
